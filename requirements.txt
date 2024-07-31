@@ -1,0 +1,11 @@
+ipykernel
+Langchain
+python-dotenv
+langchain-community
+langchain-google-
+bs4
+langchain-core
+faiss-cpu
+sentence-transformers
+pypdf
+dotenv
