@@ -9,3 +9,5 @@ faiss-cpu
 sentence-transformers
 pypdf
 dotenv
+fastapi
+unicorn
