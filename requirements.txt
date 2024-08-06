@@ -10,4 +10,7 @@ sentence-transformers
 pypdf
 dotenv
 fastapi
-unicorn
+uvicorn
+langserve
+langchain-chroma
+langchain-huggingface
