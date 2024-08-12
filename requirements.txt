@@ -14,3 +14,5 @@ uvicorn
 langserve
 langchain-chroma
 langchain-huggingface
+wikipedia
+arxiv
