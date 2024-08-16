@@ -16,3 +16,4 @@ langchain-chroma
 langchain-huggingface
 wikipedia
 arxiv
+duckduckgo-search
