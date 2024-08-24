@@ -1,0 +1,1127 @@
+,District,Town,Hobli
+0,Select District,Select Taluka,Select Hobli
+1,Bagalkote,Select Taluka,Select Hobli
+2,Bagalkote,Badami,Select Hobli
+3,Bagalkote,Badami,Badami
+4,Bagalkote,Badami,Kerura
+5,Bagalkote,Badami,Kulageri
+6,Bagalkote,Bagalkote,Select Hobli
+7,Bagalkote,Bagalkote,Bagalakota
+8,Bagalkote,Bagalkote,Kaladagi
+9,Bagalkote,Bagalkote,Seetimani
+10,Bagalkote,Bilagi,Select Hobli
+11,Bagalkote,Bilagi,Anagavadi
+12,Bagalkote,Bilagi,Beelagi
+13,Bagalkote,Guledagudda,Select Hobli
+14,Bagalkote,Guledagudda,Guledagudda
+15,Bagalkote,Hungund,Select Hobli
+16,Bagalkote,Hungund,Ameenagada
+17,Bagalkote,Hungund,Hunagunda
+18,Bagalkote,Hungund,Karadi
+19,Bagalkote,Ilkal,Select Hobli
+20,Bagalkote,Ilkal,Ameenagada
+21,Bagalkote,Ilkal,Ilakalla
+22,Bagalkote,Ilkal,Karadi
+23,Bagalkote,Jamakhandi,Select Hobli
+24,Bagalkote,Jamakhandi,Jamakhandi
+25,Bagalkote,Jamakhandi,Savalagi
+26,Bagalkote,Jamakhandi,Teradala
+27,Bagalkote,Mudhol,Select Hobli
+28,Bagalkote,Mudhol,Lokapura
+29,Bagalkote,Mudhol,Mudhola
+30,Bagalkote,Rabakavi Banahatti,Select Hobli
+31,Bagalkote,Rabakavi Banahatti,Mudhola
+32,Bagalkote,Rabakavi Banahatti,Teradala
+33,Bangalore Rural,Select Taluka,Select Hobli
+34,Bangalore Rural,Devanahalli,Select Hobli
+35,Bangalore Rural,Devanahalli,Channarayapattana
+36,Bangalore Rural,Devanahalli,Kasaba
+37,Bangalore Rural,Devanahalli,Kundana
+38,Bangalore Rural,Devanahalli,Vijayapura
+39,Bangalore Rural,Doddaballapura,Select Hobli
+40,Bangalore Rural,Doddaballapura,Doddabelavangala
+41,Bangalore Rural,Doddaballapura,Kasaba
+42,Bangalore Rural,Doddaballapura,Madure
+43,Bangalore Rural,Doddaballapura,Sasalu
+44,Bangalore Rural,Doddaballapura,Tubagere
+45,Bangalore Rural,Hoskote,Select Hobli
+46,Bangalore Rural,Hoskote,Anugondanahalli
+47,Bangalore Rural,Hoskote,Jadigenahalli
+48,Bangalore Rural,Hoskote,Kasaba
+49,Bangalore Rural,Hoskote,Nandagudi
+50,Bangalore Rural,Hoskote,Sulibele
+51,Bangalore Rural,Nelamangala,Select Hobli
+52,Bangalore Rural,Nelamangala,Kasaba
+53,Bangalore Rural,Nelamangala,Kasaba-2
+54,Bangalore Rural,Nelamangala,Sompura
+55,Bangalore Rural,Nelamangala,Sompura-2
+56,Bangalore Rural,Nelamangala,Tyamagundlu
+57,Bangalore Rural,Nelamangala,Tyamagundlu-2
+58,Bangalore Urban,Select Taluka,Select Hobli
+59,Bangalore Urban,Anekal,Select Hobli
+60,Bangalore Urban,Anekal,Attibele1
+61,Bangalore Urban,Anekal,Attibele2
+62,Bangalore Urban,Anekal,Jigani
+63,Bangalore Urban,Anekal,Jigani2
+64,Bangalore Urban,Anekal,Kasaba
+65,Bangalore Urban,Anekal,Kasaba2
+66,Bangalore Urban,Anekal,Sarjapura1
+67,Bangalore Urban,Anekal,Sarjapura2
+68,Bangalore Urban,Anekal,Sarjapura3
+69,Bangalore Urban,Bangalore-East,Select Hobli
+70,Bangalore Urban,Bangalore-East,Bidarahalli1
+71,Bangalore Urban,Bangalore-East,Bidarahalli2
+72,Bangalore Urban,Bangalore-East,Bidharahalli3
+73,Bangalore Urban,Bangalore-East,K R Pura1
+74,Bangalore Urban,Bangalore-East,K R Pura2
+75,Bangalore Urban,Bangalore-East,K R Pura3
+76,Bangalore Urban,Bangalore-East,Mahadevapura
+77,Bangalore Urban,Bangalore-East,Marathahalli
+78,Bangalore Urban,Bangalore-East,Varturu1
+79,Bangalore Urban,Bangalore-East,Varturu2
+80,Bangalore Urban,Bangalore-North,Select Hobli
+81,Bangalore Urban,Bangalore-North,Dasanapura1
+82,Bangalore Urban,Bangalore-North,Dasanapura2
+83,Bangalore Urban,Bangalore-North,Dasanapura3
+84,Bangalore Urban,Bangalore-North,Kasaba1
+85,Bangalore Urban,Bangalore-North,Kasaba2
+86,Bangalore Urban,Bangalore-North,Yashavantapura1
+87,Bangalore Urban,Bangalore-North,Yashavantapura2
+88,Bangalore Urban,Bangalore-South,Select Hobli
+89,Bangalore Urban,Bangalore-South,Beguru - 1
+90,Bangalore Urban,Bangalore-South,Beguru - 2
+91,Bangalore Urban,Bangalore-South,Beguru - 3
+92,Bangalore Urban,Bangalore-South,Kengeri - 1
+93,Bangalore Urban,Bangalore-South,Kengeri - 2
+94,Bangalore Urban,Bangalore-South,Kengeri - 3
+95,Bangalore Urban,Bangalore-South,Kengeri-4
+96,Bangalore Urban,Bangalore-South,Tavarekere - 1
+97,Bangalore Urban,Bangalore-South,Tavarekere - 2
+98,Bangalore Urban,Bangalore-South,Tavarekere - 3
+99,Bangalore Urban,Bangalore-South,Uttarahalli -1
+100,Bangalore Urban,Bangalore-South,Uttarahalli -2
+101,Bangalore Urban,Bangalore-South,Uttarahalli -3
+102,Bangalore Urban,Bangalore-South,Uttarahalli -4
+103,Bangalore Urban,Bangalore-South,Uttarahalli -5
+104,Bangalore Urban,Yalahanka,Select Hobli
+105,Bangalore Urban,Yalahanka,Hesarughatta1
+106,Bangalore Urban,Yalahanka,Hesarughatta2
+107,Bangalore Urban,Yalahanka,Jala1
+108,Bangalore Urban,Yalahanka,Jala2
+109,Bangalore Urban,Yalahanka,Jala3
+110,Bangalore Urban,Yalahanka,Yalahanka1
+111,Bangalore Urban,Yalahanka,Yalahanka2
+112,Bangalore Urban,Yalahanka,Yalahanka3
+113,Belgaum,Select Taluka,Select Hobli
+114,Belgaum,Athani,Select Hobli
+115,Belgaum,Athani,Anantapura
+116,Belgaum,Athani,Athani
+117,Belgaum,Athani,Telasanga
+118,Belgaum,Bailhongal,Select Hobli
+119,Belgaum,Bailhongal,Bailahongala
+120,Belgaum,Bailhongal,Nesaragi
+121,Belgaum,Belgaum,Select Hobli
+122,Belgaum,Belgaum,Bagevadi
+123,Belgaum,Belgaum,Belagavi
+124,Belgaum,Belgaum,Kakati
+125,Belgaum,Belgaum,Uchaganva
+126,Belgaum,Chikkodi,Select Hobli
+127,Belgaum,Chikkodi,Chikkodi
+128,Belgaum,Chikkodi,Nagaramunnoli
+129,Belgaum,Chikkodi,Sadalaga
+130,Belgaum,Gokak,Select Hobli
+131,Belgaum,Gokak,Gokaka
+132,Belgaum,Gokak,Kowjalagi
+133,Belgaum,Hukkeri,Select Hobli
+134,Belgaum,Hukkeri,Hukkeri
+135,Belgaum,Hukkeri,Sankeshvara
+136,Belgaum,Hukkeri,Yamakanamardi
+137,Belgaum,Kagavada,Select Hobli
+138,Belgaum,Kagavada,Kagavada
+139,Belgaum,Khanapur,Select Hobli
+140,Belgaum,Khanapur,Beedi
+141,Belgaum,Khanapur,Gunji
+142,Belgaum,Khanapur,Jamboti
+143,Belgaum,Khanapur,Khanapura
+144,Belgaum,Kittura,Select Hobli
+145,Belgaum,Kittura,Kittura
+146,Belgaum,Mudalagi,Select Hobli
+147,Belgaum,Mudalagi,Arabhanvi
+148,Belgaum,Mudalagi,Kowjalagi
+149,Belgaum,Nippani,Select Hobli
+150,Belgaum,Nippani,Nippani
+151,Belgaum,Nippani,Sadalaga
+152,Belgaum,Raibag,Select Hobli
+153,Belgaum,Raibag,Kudachi
+154,Belgaum,Raibag,Rayabaga
+155,Belgaum,Ramadurg,Select Hobli
+156,Belgaum,Ramadurg,Katakola
+157,Belgaum,Ramadurg,K Chandaragi
+158,Belgaum,Ramadurg,Mudakavi
+159,Belgaum,Ramadurg,Surebana
+160,Belgaum,Savadatti,Select Hobli
+161,Belgaum,Savadatti,Munavalli
+162,Belgaum,Savadatti,Muragoda
+163,Belgaum,Savadatti,Savadatti
+164,Belgaum,Yaragatti,Select Hobli
+165,Belgaum,Yaragatti,Yaragatti
+166,Bellary,Select Taluka,Select Hobli
+167,Bellary,Bellary,Select Hobli
+168,Bellary,Bellary,Bellary
+169,Bellary,Bellary,Koluru
+170,Bellary,Bellary,Kurugodu
+171,Bellary,Bellary,Moka
+172,Bellary,Bellary,Rupanagudi
+173,Bellary,Kampli,Select Hobli
+174,Bellary,Kampli,Kampli
+175,Bellary,Kampli,Kurugodu
+176,Bellary,Kurugodu,Select Hobli
+177,Bellary,Kurugodu,Koluru
+178,Bellary,Kurugodu,Kurugodu
+179,Bellary,Sandur,Select Hobli
+180,Bellary,Sandur,Choranuru
+181,Bellary,Sandur,Sanduru
+182,Bellary,Sandur,Toranagallu
+183,Bellary,Siruguppa,Select Hobli
+184,Bellary,Siruguppa,Hachcholli
+185,Bellary,Siruguppa,Karuru
+186,Bellary,Siruguppa,Siruguppa
+187,Bellary,Siruguppa,Tekkalakote
+188,Bidar,Select Taluka,Select Hobli
+189,Bidar,Aurad,Select Hobli
+190,Bidar,Aurad,Chintaki
+191,Bidar,Aurad,Dabaka
+192,Bidar,Aurad,Owradabi
+193,Bidar,Aurad,Santapura
+194,Bidar,Aurad,Tanakusanura
+195,Bidar,Basavakalyan,Select Hobli
+196,Bidar,Basavakalyan,Basavakalyana
+197,Bidar,Basavakalyan,Kohinura
+198,Bidar,Basavakalyan,Mantala
+199,Bidar,Basavakalyan,Mudabi
+200,Bidar,Basavakalyan,Rajeshvara
+201,Bidar,Bhalki,Select Hobli
+202,Bidar,Bhalki,Bhalki
+203,Bidar,Bhalki,Halabarga
+204,Bidar,Bhalki,Khataka Chinchuli
+205,Bidar,Bhalki,Lakhanaganva
+206,Bidar,Bhalki,Nitturabh
+207,Bidar,Bhalki,Sayaganva
+208,Bidar,Bidar,Select Hobli
+209,Bidar,Bidar,Bagadala
+210,Bidar,Bidar,Beedaradakshina
+211,Bidar,Bidar,Beedara Uttara
+212,Bidar,Bidar,Janavada
+213,Bidar,Bidar,Kamatana
+214,Bidar,Bidar,Mannalli
+215,Bidar,Chitaguppa,Select Hobli
+216,Bidar,Chitaguppa,Bemalakheda
+217,Bidar,Chitaguppa,Chitaguppa
+218,Bidar,Chitaguppa,Nirna
+219,Bidar,Hulasura,Select Hobli
+220,Bidar,Hulasura,Hulasura
+221,Bidar,Humnabad,Select Hobli
+222,Bidar,Humnabad,Dubalagundi
+223,Bidar,Humnabad,Hallilikhedabi
+224,Bidar,Humnabad,Humanabada
+225,Bidar,Kamalanagara,Select Hobli
+226,Bidar,Kamalanagara,Dabaka
+227,Bidar,Kamalanagara,Kamalanagara
+228,Bidar,Kamalanagara,Tanakusanura
+229,Bijapur,Select Taluka,Select Hobli
+230,Bijapur,Alamela,Select Hobli
+231,Bijapur,Alamela,Alamela
+232,Bijapur,Babaleshvara,Select Hobli
+233,Bijapur,Babaleshvara,Babaleshvara
+234,Bijapur,Babaleshvara,Mamadapura
+235,Bijapur,Basavan Bagewadi,Select Hobli
+236,Bijapur,Basavan Bagewadi,Ba Bagevadi
+237,Bijapur,Basavan Bagewadi,Ho Hipparagi
+238,Bijapur,Basavan Bagewadi,Managuli
+239,Bijapur,Bijapur,Select Hobli
+240,Bijapur,Bijapur,Bijapura
+241,Bijapur,Bijapur,Nagatana
+242,Bijapur,Chadachana,Select Hobli
+243,Bijapur,Chadachana,Chadachana
+244,Bijapur,Devara Hipparagi,Select Hobli
+245,Bijapur,Devara Hipparagi,Devara Hipparagi
+246,Bijapur,Devara Hipparagi,Ho Hipparagi
+247,Bijapur,Devara Hipparagi,Sindagi
+248,Bijapur,Indi,Select Hobli
+249,Bijapur,Indi,Ballolli
+250,Bijapur,Indi,Indi
+251,Bijapur,Kolhara,Select Hobli
+252,Bijapur,Kolhara,Kolhara
+253,Bijapur,Muddebihal,Select Hobli
+254,Bijapur,Muddebihal,Davalagi
+255,Bijapur,Muddebihal,Muddebihala
+256,Bijapur,Muddebihal,Nalatavada
+257,Bijapur,Nidagundi,Select Hobli
+258,Bijapur,Nidagundi,Nidagundi
+259,Bijapur,Sindagi,Select Hobli
+260,Bijapur,Sindagi,Sindagi
+261,Bijapur,Talikoti,Select Hobli
+262,Bijapur,Talikoti,Davalagi
+263,Bijapur,Talikoti,Devara Hipparagi
+264,Bijapur,Talikoti,Ho Hipparagi
+265,Bijapur,Talikoti,Talikoti
+266,Bijapur,Tikota,Select Hobli
+267,Bijapur,Tikota,Tikota
+268,Chamarajanagara,Select Taluka,Select Hobli
+269,Chamarajanagara,Chamarajanagara,Select Hobli
+270,Chamarajanagara,Chamarajanagara,Chandakavadi
+271,Chamarajanagara,Chamarajanagara,Haradanahalli
+272,Chamarajanagara,Chamarajanagara,Harave
+273,Chamarajanagara,Chamarajanagara,Kasaba
+274,Chamarajanagara,Chamarajanagara,Santemarahalli
+275,Chamarajanagara,Gundlupet,Select Hobli
+276,Chamarajanagara,Gundlupet,Beguru
+277,Chamarajanagara,Gundlupet,Hangala
+278,Chamarajanagara,Gundlupet,Kasaba
+279,Chamarajanagara,Gundlupet,Terakanambi
+280,Chamarajanagara,Kollegala,Select Hobli
+281,Chamarajanagara,Kollegala,Kasaba
+282,Chamarajanagara,Kollegala,Palya
+283,Chamarajanagara,Kollegala(Hanur),Select Hobli
+284,Chamarajanagara,Kollegala(Hanur),Hanuru
+285,Chamarajanagara,Kollegala(Hanur),Lokkanahalli
+286,Chamarajanagara,Kollegala(Hanur),Ramapura
+287,Chamarajanagara,Yalandur,Select Hobli
+288,Chamarajanagara,Yalandur,Agara
+289,Chamarajanagara,Yalandur,Kasaba
+290,Chikkaballapur,Select Taluka,Select Hobli
+291,Chikkaballapur,Bagepalli,Select Hobli
+292,Chikkaballapur,Bagepalli,Cheluru
+293,Chikkaballapur,Bagepalli,Guluru
+294,Chikkaballapur,Bagepalli,Kasaba
+295,Chikkaballapur,Bagepalli,Mittemari
+296,Chikkaballapur,Bagepalli,Patapalya
+297,Chikkaballapur,Chikballapur,Select Hobli
+298,Chikkaballapur,Chikballapur,Kasaba
+299,Chikkaballapur,Chikballapur,Mandikallu
+300,Chikkaballapur,Chikballapur,Nandi
+301,Chikkaballapur,Chinthamani,Select Hobli
+302,Chikkaballapur,Chinthamani,Ambajidurga
+303,Chikkaballapur,Chinthamani,Chilakalanerpu
+304,Chikkaballapur,Chinthamani,Kaivara
+305,Chikkaballapur,Chinthamani,Kasaba
+306,Chikkaballapur,Chinthamani,Munganahalli
+307,Chikkaballapur,Chinthamani,Muragamalla
+308,Chikkaballapur,Gauribidanur,Select Hobli
+309,Chikkaballapur,Gauribidanur,D Palya
+310,Chikkaballapur,Gauribidanur,Hosuru
+311,Chikkaballapur,Gauribidanur,Kasaba
+312,Chikkaballapur,Gauribidanur,Nagaragere
+313,Chikkaballapur,Gauribidanur,Tondebavi
+314,Chikkaballapur,Gudibande,Select Hobli
+315,Chikkaballapur,Gudibande,Kasaba
+316,Chikkaballapur,Gudibande,Somenahalli
+317,Chikkaballapur,Manchenahalli,Select Hobli
+318,Chikkaballapur,Manchenahalli,Manchenahalli
+319,Chikkaballapur,Sidlaghatta,Select Hobli
+320,Chikkaballapur,Sidlaghatta,Bashettihalli
+321,Chikkaballapur,Sidlaghatta,Jangamakote
+322,Chikkaballapur,Sidlaghatta,Kasaba
+323,Chikkaballapur,Sidlaghatta,Sadali
+324,Chikmagalur,Select Taluka,Select Hobli
+325,Chikmagalur,Ajjampura,Select Hobli
+326,Chikmagalur,Ajjampura,Ajjampura
+327,Chikmagalur,Ajjampura,Shivani
+328,Chikmagalur,Chikmagalur,Select Hobli
+329,Chikmagalur,Chikmagalur,Alduru
+330,Chikmagalur,Chikmagalur,Ambale
+331,Chikmagalur,Chikmagalur,Avati
+332,Chikmagalur,Chikmagalur,Jagara
+333,Chikmagalur,Chikmagalur,Kasaba
+334,Chikmagalur,Chikmagalur,Khandya
+335,Chikmagalur,Chikmagalur,Lakya
+336,Chikmagalur,Chikmagalur,Vastare
+337,Chikmagalur,Kadur,Select Hobli
+338,Chikmagalur,Kadur,Ajjampura
+339,Chikmagalur,Kadur,Beeruru
+340,Chikmagalur,Kadur,Chowlahiriyur
+341,Chikmagalur,Kadur,Hirenalluru
+342,Chikmagalur,Kadur,Kasaba
+343,Chikmagalur,Kadur,Panchanahalli
+344,Chikmagalur,Kadur,Sakharayapattana
+345,Chikmagalur,Kadur,Singatagere
+346,Chikmagalur,Kadur,Yagati
+347,Chikmagalur,Kalasa,Select Hobli
+348,Chikmagalur,Kalasa,Kalasa
+349,Chikmagalur,Koppa,Select Hobli
+350,Chikmagalur,Koppa,Hariharapura
+351,Chikmagalur,Koppa,Kasaba
+352,Chikmagalur,Koppa,Megunda
+353,Chikmagalur,Mudigere,Select Hobli
+354,Chikmagalur,Mudigere,Baluru
+355,Chikmagalur,Mudigere,Banakal
+356,Chikmagalur,Mudigere,Gonibeedu
+357,Chikmagalur,Mudigere,Kasaba
+358,Chikmagalur,Narasimharajapura,Select Hobli
+359,Chikmagalur,Narasimharajapura,Balehonnuru
+360,Chikmagalur,Narasimharajapura,Kasaba
+361,Chikmagalur,Sringeri,Select Hobli
+362,Chikmagalur,Sringeri,Kasaba
+363,Chikmagalur,Sringeri,Kigga
+364,Chikmagalur,Tarikere,Select Hobli
+365,Chikmagalur,Tarikere,Amrutapura
+366,Chikmagalur,Tarikere,Kasaba
+367,Chikmagalur,Tarikere,Lakkavalli
+368,Chikmagalur,Tarikere,Lingadahalli
+369,Chitradurga,Select Taluka,Select Hobli
+370,Chitradurga,Challakere,Select Hobli
+371,Chitradurga,Challakere,Kasaba
+372,Chitradurga,Challakere,Nayakanahatti
+373,Chitradurga,Challakere,Parashura0pura
+374,Chitradurga,Challakere,Talaku
+375,Chitradurga,Chitradurga,Select Hobli
+376,Chitradurga,Chitradurga,Bharamasagara
+377,Chitradurga,Chitradurga,Hireguntanuru
+378,Chitradurga,Chitradurga,Kasaba
+379,Chitradurga,Chitradurga,Turuvanuru
+380,Chitradurga,Hiriyur,Select Hobli
+381,Chitradurga,Hiriyur,Aimangala
+382,Chitradurga,Hiriyur,Dharmapura
+383,Chitradurga,Hiriyur,J G Halli
+384,Chitradurga,Hiriyur,Kasaba
+385,Chitradurga,Holalkere,Select Hobli
+386,Chitradurga,Holalkere,Beedurga
+387,Chitradurga,Holalkere,Kasaba
+388,Chitradurga,Holalkere,Ramagiri
+389,Chitradurga,Holalkere,Talya
+390,Chitradurga,Hosadurga,Select Hobli
+391,Chitradurga,Hosadurga,Kasaba
+392,Chitradurga,Hosadurga,Madadakere
+393,Chitradurga,Hosadurga,Mattodu
+394,Chitradurga,Hosadurga,Shreerampura
+395,Chitradurga,Molakalmur,Select Hobli
+396,Chitradurga,Molakalmur,Devasamudra
+397,Chitradurga,Molakalmur,Kasaba
+398,Dakshina Kannada,Select Taluka,Select Hobli
+399,Dakshina Kannada,Bantwal,Select Hobli
+400,Dakshina Kannada,Bantwal,Bantvala
+401,Dakshina Kannada,Bantwal,Panemangaluru
+402,Dakshina Kannada,Bantwal,Vitla
+403,Dakshina Kannada,Belthangady,Select Hobli
+404,Dakshina Kannada,Belthangady,Beltangadi
+405,Dakshina Kannada,Belthangady,Kokkada
+406,Dakshina Kannada,Belthangady,Venuru
+407,Dakshina Kannada,Kadaba,Select Hobli
+408,Dakshina Kannada,Kadaba,Kadaba
+409,Dakshina Kannada,Kadaba,Panja
+410,Dakshina Kannada,Kadaba,Uppinangadi
+411,Dakshina Kannada,Mangalore,Select Hobli
+412,Dakshina Kannada,Mangalore,Gurupura
+413,Dakshina Kannada,Mangalore,Mangaluru A
+414,Dakshina Kannada,Mangalore,Mangaluru B
+415,Dakshina Kannada,Mangalore,Suratkal
+416,Dakshina Kannada,Mudabidri,Select Hobli
+417,Dakshina Kannada,Mudabidri,Mudabidri
+418,Dakshina Kannada,Mulki,Select Hobli
+419,Dakshina Kannada,Mulki,Mulki
+420,Dakshina Kannada,Puttur,Select Hobli
+421,Dakshina Kannada,Puttur,Putturu
+422,Dakshina Kannada,Puttur,Uppinangadi
+423,Dakshina Kannada,Sullia,Select Hobli
+424,Dakshina Kannada,Sullia,Panja
+425,Dakshina Kannada,Sullia,Sulya
+426,Dakshina Kannada,Ullala,Select Hobli
+427,Dakshina Kannada,Ullala,Mangaluru B
+428,Dakshina Kannada,Ullala,Panemangaluru
+429,Davanagere,Select Taluka,Select Hobli
+430,Davanagere,Channagiri,Select Hobli
+431,Davanagere,Channagiri,Basavapattana-1
+432,Davanagere,Channagiri,Basavapattana-2
+433,Davanagere,Channagiri,Kasaba
+434,Davanagere,Channagiri,Santebennuru-1
+435,Davanagere,Channagiri,Santebennuru-2
+436,Davanagere,Channagiri,Ubrani
+437,Davanagere,Davanagere,Select Hobli
+438,Davanagere,Davanagere,Anagodu
+439,Davanagere,Davanagere,Kasaba
+440,Davanagere,Davanagere,Mayakonda
+441,Davanagere,Harihar,Select Hobli
+442,Davanagere,Harihar,Kasaba
+443,Davanagere,Harihar,Malebennuru
+444,Davanagere,Honnali,Select Hobli
+445,Davanagere,Honnali,Govinakovi-2
+446,Davanagere,Honnali,Kasaba
+447,Davanagere,Honnali,Sasvehalli-1
+448,Davanagere,Honnali,Sasvehalli-2
+449,Davanagere,Jagalur,Select Hobli
+450,Davanagere,Jagalur,Bilichodu
+451,Davanagere,Jagalur,Kasaba
+452,Davanagere,Jagalur,Sokke
+453,Davanagere,Nyamati,Select Hobli
+454,Davanagere,Nyamati,Belagutti
+455,Davanagere,Nyamati,Govinakovi-1
+456,Dharwad,Select Taluka,Select Hobli
+457,Dharwad,Alnavara,Select Hobli
+458,Dharwad,Annigeri,Select Hobli
+459,Dharwad,Annigeri,Annigeri
+460,Dharwad,Dharwad,Select Hobli
+461,Dharwad,Dharwad,Amminabavi
+462,Dharwad,Dharwad,Dharavada
+463,Dharwad,Dharwad,Garaga
+464,Dharwad,Hubballi Nagara,Select Hobli
+465,Dharwad,Hubballi Nagara,Chabbi
+466,Dharwad,Hubballi Nagara,Hubballi
+467,Dharwad,Hubli,Select Hobli
+468,Dharwad,Hubli,Chabbi
+469,Dharwad,Hubli,Hubballi
+470,Dharwad,Hubli,Shiraguppi
+471,Dharwad,Kalgatgi,Select Hobli
+472,Dharwad,Kalgatgi,Dhummavada
+473,Dharwad,Kalgatgi,Kalaghatagi
+474,Dharwad,Kalgatgi,Tabakadahonnihalli
+475,Dharwad,Kundgol,Select Hobli
+476,Dharwad,Kundgol,Kundagola
+477,Dharwad,Kundgol,Sanshi
+478,Dharwad,Navalgund,Select Hobli
+479,Dharwad,Navalgund,Moraba
+480,Gadag,Select Taluka,Select Hobli
+481,Gadag,Gadag,Select Hobli
+482,Gadag,Gadag,Betageri
+483,Gadag,Gadag,Gadaga
+484,Gadag,Gajendragad,Select Hobli
+485,Gadag,Gajendragad,Naregalla
+486,Gadag,Gajendragad,Rona
+487,Gadag,Laxmeshwar,Select Hobli
+488,Gadag,Laxmeshwar,Lakshmeshvara
+489,Gadag,Mundargi,Select Hobli
+490,Gadag,Mundargi,Dambala
+491,Gadag,Mundargi,Mundaragi
+492,Gadag,Naragund,Select Hobli
+493,Gadag,Naragund,Konnura
+494,Gadag,Naragund,Naragunda
+495,Gadag,Ron,Select Hobli
+496,Gadag,Ron,Holealura
+497,Gadag,Ron,Naregalla
+498,Gadag,Ron,Rona
+499,Gadag,Shirahatti,Select Hobli
+500,Gadag,Shirahatti,Lakshmeshvara
+501,Gadag,Shirahatti,Shirahatti
+502,Gulbarga,Select Taluka,Select Hobli
+503,Gulbarga,Afzalpur,Select Hobli
+504,Gulbarga,Afzalpur,Afajalapura
+505,Gulbarga,Afzalpur,Atanura
+506,Gulbarga,Afzalpur,Karajagi
+507,Gulbarga,Aland,Select Hobli
+508,Gulbarga,Aland,Alanda
+509,Gulbarga,Aland,Khajuri
+510,Gulbarga,Aland,Madanahipparaga
+511,Gulbarga,Aland,Narona
+512,Gulbarga,Aland,Nimbarga
+513,Gulbarga,Chincholi,Select Hobli
+514,Gulbarga,Chincholi,Ainapura
+515,Gulbarga,Chincholi,Chincholi
+516,Gulbarga,Chincholi,Kodli
+517,Gulbarga,Chincholi,Sulepeta
+518,Gulbarga,Chittapur,Select Hobli
+519,Gulbarga,Chittapur,Chittapura
+520,Gulbarga,Chittapur,Gundagurti
+521,Gulbarga,Chittapur,Nalavara
+522,Gulbarga,Gulbarga,Select Hobli
+523,Gulbarga,Gulbarga,Avarada B
+524,Gulbarga,Gulbarga,Farahatabada
+525,Gulbarga,Gulbarga,Gulabarga
+526,Gulbarga,Gulbarga,Mahaganva
+527,Gulbarga,Gulbarga,Pattana
+528,Gulbarga,Jevargi,Select Hobli
+529,Gulbarga,Jevargi,Andola
+530,Gulbarga,Jevargi,Jevargi
+531,Gulbarga,Jevargi,Nelogi
+532,Gulbarga,Kalagi,Select Hobli
+533,Gulbarga,Kalagi,Ainapura
+534,Gulbarga,Kalagi,Gundagurti
+535,Gulbarga,Kalagi,Kalagi
+536,Gulbarga,Kalagi,Kodli
+537,Gulbarga,Kamalapura,Select Hobli
+538,Gulbarga,Kamalapura,Kamalapura
+539,Gulbarga,Kamalapura,Mahaganva
+540,Gulbarga,Sedam,Select Hobli
+541,Gulbarga,Sedam,Adaki
+542,Gulbarga,Sedam,Kodla
+543,Gulbarga,Sedam,Mudola
+544,Gulbarga,Sedam,Sedam
+545,Gulbarga,Shahabada,Select Hobli
+546,Gulbarga,Shahabada,Shahabada
+547,Gulbarga,Yadrami,Select Hobli
+548,Gulbarga,Yadrami,Andola
+549,Gulbarga,Yadrami,Ijeri
+550,Gulbarga,Yadrami,Yadrami
+551,Hassan,Select Taluka,Select Hobli
+552,Hassan,Alur,Select Hobli
+553,Hassan,Alur,Kasaba
+554,Hassan,Alur,K Hosakote
+555,Hassan,Alur,Kunduru
+556,Hassan,Alur,Palya
+557,Hassan,Arkalgud,Select Hobli
+558,Hassan,Arkalgud,Doddamagge
+559,Hassan,Arkalgud,Kasaba
+560,Hassan,Arkalgud,Konanuru
+561,Hassan,Arkalgud,Mallipattana
+562,Hassan,Arkalgud,Ramanathapura
+563,Hassan,Arsikere,Select Hobli
+564,Hassan,Arsikere,Banavara
+565,Hassan,Arsikere,Gandasi
+566,Hassan,Arsikere,Javagal
+567,Hassan,Arsikere,Kanakatte
+568,Hassan,Arsikere,Kasaba
+569,Hassan,Belur,Select Hobli
+570,Hassan,Belur,Arehalli
+571,Hassan,Belur,Bikkodu
+572,Hassan,Belur,Halebeedu
+573,Hassan,Belur,Kasaba
+574,Hassan,Belur,Madeehalli
+575,Hassan,Channarayapatna,Select Hobli
+576,Hassan,Channarayapatna,Baguru
+577,Hassan,Channarayapatna,Dandiganahalli
+578,Hassan,Channarayapatna,Hireesave
+579,Hassan,Channarayapatna,Kasaba
+580,Hassan,Channarayapatna,Nuggehalli
+581,Hassan,Channarayapatna,Shravanabelagola
+582,Hassan,Hassan,Select Hobli
+583,Hassan,Hassan,Dudda
+584,Hassan,Hassan,Kasaba
+585,Hassan,Hassan,Kattaya
+586,Hassan,Hassan,Salagame
+587,Hassan,Hassan,Shantigrama
+588,Hassan,Holenarasipura,Select Hobli
+589,Hassan,Holenarasipura,Halekote
+590,Hassan,Holenarasipura,Hallimaisuru
+591,Hassan,Holenarasipura,Kasaba
+592,Hassan,Sakleshpura,Select Hobli
+593,Hassan,Sakleshpura,Belagodu
+594,Hassan,Sakleshpura,Hanubalu
+595,Hassan,Sakleshpura,Hetturu
+596,Hassan,Sakleshpura,Kasaba
+597,Hassan,Sakleshpura,Yasaluru
+598,Haveri,Select Taluka,Select Hobli
+599,Haveri,Byadagi,Select Hobli
+600,Haveri,Byadagi,Byadagi
+601,Haveri,Byadagi,Kaginelli
+602,Haveri,Hangal,Select Hobli
+603,Haveri,Hangal,Akkialura
+604,Haveri,Hangal,Bammanalli
+605,Haveri,Hangal,Hanagalla
+606,Haveri,Haveri,Select Hobli
+607,Haveri,Haveri,Guttala
+608,Haveri,Haveri,Haveri
+609,Haveri,Haveri,Karajagi
+610,Haveri,Hirekerur,Select Hobli
+611,Haveri,Hirekerur,Hansabhavi
+612,Haveri,Hirekerur,Hirekerura
+613,Haveri,Ranebennur,Select Hobli
+614,Haveri,Ranebennur,Kuppelura
+615,Haveri,Ranebennur,Medleri
+616,Haveri,Ranebennur,Ranebennura
+617,Haveri,Ratteehalli,Select Hobli
+618,Haveri,Ratteehalli,Hirekerura
+619,Haveri,Ratteehalli,Ratteehalli
+620,Haveri,Savanur,Select Hobli
+621,Haveri,Savanur,Hattimattura
+622,Haveri,Savanur,Savanura
+623,Haveri,Shiggaon,Select Hobli
+624,Haveri,Shiggaon,Bankapura
+625,Haveri,Shiggaon,Dundashi
+626,Haveri,Shiggaon,Shigganva
+627,Kodagu,Select Taluka,Select Hobli
+628,Kodagu,Kushalanagara,Select Hobli
+629,Kodagu,Kushalanagara,Kushalanagara
+630,Kodagu,Kushalanagara,Suntikoppa
+631,Kodagu,Madikeri,Select Hobli
+632,Kodagu,Madikeri,Bhagamandala
+633,Kodagu,Madikeri,Madikeri
+634,Kodagu,Madikeri,Napoklu
+635,Kodagu,Madikeri,Sampaje
+636,Kodagu,Ponnampete,Select Hobli
+637,Kodagu,Ponnampete,Balele
+638,Kodagu,Ponnampete,Hudikeri
+639,Kodagu,Ponnampete,Ponnampete
+640,Kodagu,Ponnampete,Shreemangala
+641,Kodagu,Somawarpet,Select Hobli
+642,Kodagu,Somawarpet,Kodlipete
+643,Kodagu,Somawarpet,Shanivarasante
+644,Kodagu,Somawarpet,Shantalli
+645,Kodagu,Somawarpet,Somavarapete
+646,Kodagu,Somawarpet,Suntikoppa
+647,Kodagu,Virajpet,Select Hobli
+648,Kodagu,Virajpet,Ammati
+649,Kodagu,Virajpet,Virajapete
+650,Kolar,Select Taluka,Select Hobli
+651,Kolar,Bangarpet,Select Hobli
+652,Kolar,Bangarpet,Budikote
+653,Kolar,Bangarpet,Kamasamudra
+654,Kolar,Bangarpet,Kasaba
+655,Kolar,Bangarpet,Rabartasan Pete
+656,Kolar,K.G.F,Select Hobli
+657,Kolar,K.G.F,Betamangala
+658,Kolar,K.G.F,Kyasamballi
+659,Kolar,K.G.F,Rabartasan Pete
+660,Kolar,Kolar,Select Hobli
+661,Kolar,Kolar,Holuru
+662,Kolar,Kolar,Hutturu
+663,Kolar,Kolar,Kasaba
+664,Kolar,Kolar,Narasapura
+665,Kolar,Kolar,Sugaturu
+666,Kolar,Kolar,Vakkaleri
+667,Kolar,Kolar,Vemagallu
+668,Kolar,Malur,Select Hobli
+669,Kolar,Malur,Kasaba
+670,Kolar,Malur,Lakkuru
+671,Kolar,Malur,Masti
+672,Kolar,Malur,Tekal
+673,Kolar,Mulbagal,Select Hobli
+674,Kolar,Mulbagal,Avani
+675,Kolar,Mulbagal,Bairakuru
+676,Kolar,Mulbagal,Duggasandra
+677,Kolar,Mulbagal,Kasaba
+678,Kolar,Mulbagal,Tayaluru
+679,Kolar,Srinivaspur,Select Hobli
+680,Kolar,Srinivaspur,Kasaba
+681,Kolar,Srinivaspur,Nelavanki
+682,Kolar,Srinivaspur,Rayalpadu
+683,Kolar,Srinivaspur,Ronuru
+684,Kolar,Srinivaspur,Yelduru
+685,Koppal,Select Taluka,Select Hobli
+686,Koppal,Gangavathi,Select Hobli
+687,Koppal,Gangavathi,Gangavati
+688,Koppal,Gangavathi,Marali
+689,Koppal,Gangavathi,Venkatagiri
+690,Koppal,Kanakagiri,Select Hobli
+691,Koppal,Kanakagiri,Hulihaidara
+692,Koppal,Kanakagiri,Kanakagiri
+693,Koppal,Kanakagiri,Navali
+694,Koppal,Karatagi,Select Hobli
+695,Koppal,Karatagi,Karatagi
+696,Koppal,Karatagi,Siddapura
+697,Koppal,Koppal,Select Hobli
+698,Koppal,Koppal,Alavandi
+699,Koppal,Koppal,Hitnala
+700,Koppal,Koppal,Irakallagada
+701,Koppal,Koppal,Koppala
+702,Koppal,Kukanura,Select Hobli
+703,Koppal,Kukanura,Kukanura
+704,Koppal,Kukanura,Mangaluru
+705,Koppal,Kushtagi,Select Hobli
+706,Koppal,Kushtagi,Hanamanala
+707,Koppal,Kushtagi,Hanamasagara
+708,Koppal,Kushtagi,Kushtagi
+709,Koppal,Kushtagi,Tavaragera
+710,Koppal,Yelburga,Select Hobli
+711,Koppal,Yelburga,Hirevankalakunta
+712,Koppal,Yelburga,Mangaluru
+713,Koppal,Yelburga,Yalaburga
+714,Mandya,Select Taluka,Select Hobli
+715,Mandya,Krpet,Select Hobli
+716,Mandya,Maddur,Select Hobli
+717,Mandya,Maddur,Ataguru Hobali
+718,Mandya,Maddur,Ch A Kere- Aiaiaine Valaya
+719,Mandya,Maddur,Ch A Kere - Aiaine Valaya
+720,Mandya,Maddur,Ch A Kere Aine Valaya
+721,Mandya,Maddur,Kasaba-1ne Valaya
+722,Mandya,Maddur,Kasaba-Aiai Ne Valaya
+723,Mandya,Maddur,Koppa -Aiaiaine Valaya
+724,Mandya,Maddur,Koppa-Aiaine Valaya
+725,Mandya,Maddur,Koppa-Aine Valaya
+726,Mandya,Maddur,Koppa Hobali
+727,Mandya,Malavalli,Select Hobli
+728,Mandya,Malavalli,B G Pura Hobali Ai
+729,Mandya,Malavalli,B G Pura Hobali Aiai
+730,Mandya,Malavalli,Halaguru Hobali
+731,Mandya,Malavalli,Kasaba - Ai
+732,Mandya,Malavalli,Kasaba - Aiai
+733,Mandya,Malavalli,Kasaba- Aiaiai
+734,Mandya,Malavalli,Kirugavalu Hobali Ai
+735,Mandya,Malavalli,Kirugavalu Hobali Aiai
+736,Mandya,Malavalli,Kirugavalu Hobali Aiaiai
+737,Mandya,Mandya,Select Hobli
+738,Mandya,Mandya,Basaralu - 1
+739,Mandya,Mandya,Basaralu - 2
+740,Mandya,Mandya,Dudda - 1
+741,Mandya,Mandya,Dudda - 2
+742,Mandya,Mandya,Kasaba - 1
+743,Mandya,Mandya,Kasaba - 2
+744,Mandya,Mandya,Keragodu -1
+745,Mandya,Mandya,Keragodu - 2
+746,Mandya,Mandya,Kottatti - 1
+747,Mandya,Mandya,Kottatti - 2
+748,Mandya,Nagamangala,Select Hobli
+749,Mandya,Nagamangala,Belluru
+750,Mandya,Nagamangala,Bindiganavile
+751,Mandya,Nagamangala,Devalapura
+752,Mandya,Nagamangala,Honakere
+753,Mandya,Nagamangala,Kasaba
+754,Mandya,Pandavapura,Select Hobli
+755,Mandya,Pandavapura,Chinakurali
+756,Mandya,Pandavapura,Kasaba1
+757,Mandya,Pandavapura,Kasaba2
+758,Mandya,Pandavapura,Melukote
+759,Mandya,Srirangapatna,Select Hobli
+760,Mandya,Srirangapatna,Arakere
+761,Mandya,Srirangapatna,Belagola
+762,Mandya,Srirangapatna,Kasaba
+763,Mandya,Srirangapatna,K Shettihalli-1
+764,Mandya,Srirangapatna,K Shettihalli-2
+765,Mysore,Select Taluka,Select Hobli
+766,Mysore,Heggadadevanakote,Select Hobli
+767,Mysore,Heggadadevanakote,Antarasante
+768,Mysore,Heggadadevanakote,Hampapura
+769,Mysore,Heggadadevanakote,Kasaba
+770,Mysore,Hunsur,Select Hobli
+771,Mysore,Hunsur,Bilikere
+772,Mysore,Hunsur,Gavadagere
+773,Mysore,Hunsur,Hanagodu
+774,Mysore,Hunsur,Kasaba
+775,Mysore,K.R.Nagar,Select Hobli
+776,Mysore,K.R.Nagar,Hebbalu
+777,Mysore,K.R.Nagar,Hosagrahara
+778,Mysore,K.R.Nagar,Kasaba
+779,Mysore,Mysore,Select Hobli
+780,Mysore,Mysore,Ilavala
+781,Mysore,Mysore,Jayapura
+782,Mysore,Mysore,Kasaba
+783,Mysore,Mysore,Varuna
+784,Mysore,Nanjangud,Select Hobli
+785,Mysore,Nanjangud,Biligere
+786,Mysore,Nanjangud,Chikkayyanachatra
+787,Mysore,Nanjangud,Doddakowlande
+788,Mysore,Nanjangud,Hullahalli
+789,Mysore,Nanjangud,Kasaba
+790,Mysore,Periyapatana,Select Hobli
+791,Mysore,Periyapatana,Bettadapura
+792,Mysore,Periyapatana,Haranahalli
+793,Mysore,Periyapatana,Kasaba
+794,Mysore,Periyapatana,Ravanduru
+795,Mysore,Saligrama,Select Hobli
+796,Mysore,Saligrama,Chunchanakatte
+797,Mysore,Saligrama,Hosagrahara
+798,Mysore,Saligrama,Mirle
+799,Mysore,Saligrama,Saligrama
+800,Mysore,Saraguru,Select Hobli
+801,Mysore,Saraguru,Kandalike
+802,Mysore,Saraguru,Saraguru
+803,Mysore,T.Narasipura,Select Hobli
+804,Mysore,T.Narasipura,Bannuru
+805,Mysore,T.Narasipura,Kasaba
+806,Mysore,T.Narasipura,Muguru
+807,Mysore,T.Narasipura,Sosale
+808,Mysore,T.Narasipura,Talakadu
+809,Raichur,Select Taluka,Select Hobli
+810,Raichur,Devdurga,Select Hobli
+811,Raichur,Devdurga,Arakera
+812,Raichur,Devdurga,Devadurga
+813,Raichur,Devdurga,Gabburu
+814,Raichur,Devdurga,Jalahalli
+815,Raichur,Lingasugur,Select Hobli
+816,Raichur,Lingasugur,Gurugunta
+817,Raichur,Lingasugur,Lingasuguru
+818,Raichur,Lingasugur,Mudagal
+819,Raichur,Manvi,Select Hobli
+820,Raichur,Manvi,Hirekotnikala
+821,Raichur,Manvi,Kalluru
+822,Raichur,Manvi,Kurdi
+823,Raichur,Manvi,Mallata
+824,Raichur,Manvi,Manavi
+825,Raichur,Manvi,Siravara
+826,Raichur,Maski,Select Hobli
+827,Raichur,Maski,Balaganura
+828,Raichur,Maski,Gudadura
+829,Raichur,Maski,Gunjalli
+830,Raichur,Maski,Halapura
+831,Raichur,Maski,Lingasuguru
+832,Raichur,Maski,Maski
+833,Raichur,Maski,Pamanakallura
+834,Raichur,Maski,Turvihala
+835,Raichur,Raichur,Select Hobli
+836,Raichur,Raichur,Chandrabanda
+837,Raichur,Raichur,Devasuguru
+838,Raichur,Raichur,Gillesuguru
+839,Raichur,Raichur,Kalamala
+840,Raichur,Raichur,Rayachuru
+841,Raichur,Raichur,Yaragera
+842,Raichur,Sindhanur,Select Hobli
+843,Raichur,Sindhanur,Badarli
+844,Raichur,Sindhanur,Gorebala
+845,Raichur,Sindhanur,Gunjalli
+846,Raichur,Sindhanur,Hedaginala
+847,Raichur,Sindhanur,Huda
+848,Raichur,Sindhanur,Jalihala
+849,Raichur,Sindhanur,Javalagera
+850,Raichur,Sindhanur,Kunnatagi
+851,Raichur,Sindhanur,Salgunda
+852,Raichur,Sindhanur,Sindhanura
+853,Raichur,Sindhanur,Turvihala
+854,Raichur,Sindhanur,Valkandinni
+855,Raichur,Siravara,Select Hobli
+856,Raichur,Siravara,Kalluru
+857,Raichur,Siravara,Kavitala
+858,Raichur,Siravara,Mallata
+859,Raichur,Siravara,Siravara
+860,Ramanagara,Select Taluka,Select Hobli
+861,Ramanagara,Channapatna,Select Hobli
+862,Ramanagara,Channapatna,Kasaba
+863,Ramanagara,Channapatna,Maluru
+864,Ramanagara,Channapatna,Virupakshipura
+865,Ramanagara,Harohalli,Select Hobli
+866,Ramanagara,Harohalli,Harohalli
+867,Ramanagara,Harohalli,Maralavadi
+868,Ramanagara,Kanakpura,Select Hobli
+869,Ramanagara,Kanakpura,Kasaba
+870,Ramanagara,Kanakpura,Kodihalli
+871,Ramanagara,Kanakpura,Satanuru
+872,Ramanagara,Kanakpura,Uyyamballi
+873,Ramanagara,Magadi,Select Hobli
+874,Ramanagara,Magadi,Kasaba
+875,Ramanagara,Magadi,Kuduru
+876,Ramanagara,Magadi,Madabal
+877,Ramanagara,Magadi,Soluru
+878,Ramanagara,Magadi,Tippasandra
+879,Ramanagara,Ramanagar,Select Hobli
+880,Ramanagara,Ramanagar,Bidadi
+881,Ramanagara,Ramanagar,Bidadi 1
+882,Ramanagara,Ramanagar,Bidadi 2
+883,Ramanagara,Ramanagar,Kailancha-1
+884,Ramanagara,Ramanagar,Kailancha-2
+885,Ramanagara,Ramanagar,Kasaba1
+886,Ramanagara,Ramanagar,Kasaba2
+887,Ramanagara,Ramanagar,Kutagala
+888,Shimoga,Select Taluka,Select Hobli
+889,Shimoga,Bhadravathi,Select Hobli
+890,Shimoga,Bhadravathi,Holehonnuru Ai
+891,Shimoga,Bhadravathi,Holehonnuru Aiai
+892,Shimoga,Bhadravathi,Holehonnuru Aiaiai
+893,Shimoga,Bhadravathi,Kasaba Ai
+894,Shimoga,Bhadravathi,Kasaba Aiai
+895,Shimoga,Bhadravathi,Kudligere
+896,Shimoga,Hosanagar,Select Hobli
+897,Shimoga,Hosanagar,Huncha
+898,Shimoga,Hosanagar,Kasaba
+899,Shimoga,Hosanagar,Kerehalli
+900,Shimoga,Hosanagar,Nagara
+901,Shimoga,Sagar,Select Hobli
+902,Shimoga,Sagar,Anandapura
+903,Shimoga,Sagar,Avinahalli
+904,Shimoga,Sagar,Barangi
+905,Shimoga,Sagar,Karuru
+906,Shimoga,Sagar,Kasaba
+907,Shimoga,Sagar,Talaguppa
+908,Shimoga,Shikaripura,Select Hobli
+909,Shimoga,Shikaripura,Anjanapura
+910,Shimoga,Shikaripura,Hosuru
+911,Shimoga,Shikaripura,Kasaba
+912,Shimoga,Shikaripura,Talagunda
+913,Shimoga,Shikaripura,Udugani
+914,Shimoga,Shimoga,Select Hobli
+915,Shimoga,Shimoga,Ayanuru
+916,Shimoga,Shimoga,Haranahalli
+917,Shimoga,Shimoga,Holaluraaiai
+918,Shimoga,Shimoga,Holaluruai
+919,Shimoga,Shimoga,Kasabaai
+920,Shimoga,Shimoga,Kasabaaiai
+921,Shimoga,Shimoga,Kunsi
+922,Shimoga,Shimoga,Nidigeai
+923,Shimoga,Shimoga,Nidigeaiai
+924,Shimoga,Soraba,Select Hobli
+925,Shimoga,Soraba,Anavatti
+926,Shimoga,Soraba,Chandragutti
+927,Shimoga,Soraba,Jade
+928,Shimoga,Soraba,Kasaba
+929,Shimoga,Soraba,Kuppagadde
+930,Shimoga,Soraba,Ulavi
+931,Shimoga,Thirthally,Select Hobli
+932,Shimoga,Thirthally,Agrahara
+933,Shimoga,Thirthally,Agumbe
+934,Shimoga,Thirthally,Kasaba
+935,Shimoga,Thirthally,Mandagadde
+936,Shimoga,Thirthally,Mutturu
+937,Tumkur,Select Taluka,Select Hobli
+938,Tumkur,Chiknayakanahalli,Select Hobli
+939,Tumkur,Chiknayakanahalli,Handanakere
+940,Tumkur,Chiknayakanahalli,Huliyaru
+941,Tumkur,Chiknayakanahalli,Kandikere
+942,Tumkur,Chiknayakanahalli,Kasaba
+943,Tumkur,Chiknayakanahalli,Shettikere
+944,Tumkur,Gubbi,Select Hobli
+945,Tumkur,Gubbi,Cheluru
+946,Tumkur,Gubbi,C S Pura
+947,Tumkur,Gubbi,Hagalavadi
+948,Tumkur,Gubbi,Kadaba
+949,Tumkur,Gubbi,Kasaba
+950,Tumkur,Gubbi,Nitturu
+951,Tumkur,Koratagere,Select Hobli
+952,Tumkur,Koratagere,Channarayanadurga
+953,Tumkur,Koratagere,Holavanahalli
+954,Tumkur,Koratagere,Kasaba
+955,Tumkur,Koratagere,Kolala
+956,Tumkur,Kunigal,Select Hobli
+957,Tumkur,Kunigal,Amrutturu
+958,Tumkur,Kunigal,Huliyuru Durga
+959,Tumkur,Kunigal,Hutridurga
+960,Tumkur,Kunigal,Kasaba
+961,Tumkur,Kunigal,Kottagere
+962,Tumkur,Kunigal,Yadiyuru
+963,Tumkur,Madhugiri,Select Hobli
+964,Tumkur,Madhugiri,Ai D Halli
+965,Tumkur,Madhugiri,Dodderi
+966,Tumkur,Madhugiri,Kasaba
+967,Tumkur,Madhugiri,Kodigenahalli
+968,Tumkur,Madhugiri,Midigeshi
+969,Tumkur,Madhugiri,Puravara
+970,Tumkur,Pavagada,Select Hobli
+971,Tumkur,Pavagada,Kasaba
+972,Tumkur,Pavagada,Nagalamadike
+973,Tumkur,Pavagada,Nidagal Hobali
+974,Tumkur,Pavagada,Y N Hosakote
+975,Tumkur,Sira,Select Hobli
+976,Tumkur,Sira,Bukkapattana
+977,Tumkur,Sira,Gowdagere
+978,Tumkur,Sira,Hulikunte
+979,Tumkur,Sira,Kallambella
+980,Tumkur,Sira,Kasaba
+981,Tumkur,Tiptur,Select Hobli
+982,Tumkur,Tiptur,Honnavalli
+983,Tumkur,Tiptur,Kasaba
+984,Tumkur,Tiptur,Kibbanahalli
+985,Tumkur,Tiptur,Nonavinakere
+986,Tumkur,Tumkur,Select Hobli
+987,Tumkur,Tumkur,Bellavi
+988,Tumkur,Tumkur,Guluru
+989,Tumkur,Tumkur,Hebburu
+990,Tumkur,Tumkur,Kasaba
+991,Tumkur,Tumkur,Kasaba East
+992,Tumkur,Tumkur,Kasaba North
+993,Tumkur,Tumkur,Kasaba South
+994,Tumkur,Tumkur,Kasaba West
+995,Tumkur,Tumkur,Kora
+996,Tumkur,Tumkur,Urdigere
+997,Tumkur,Turuvekere,Select Hobli
+998,Tumkur,Turuvekere,Dabbeghatta
+999,Tumkur,Turuvekere,Dandinashivara
+1000,Tumkur,Turuvekere,Kasaba
+1001,Tumkur,Turuvekere,Mayasandra
+1002,Udupi,Select Taluka,Select Hobli
+1003,Udupi,Bramhavara,Select Hobli
+1004,Udupi,Bramhavara,Brahmavara
+1005,Udupi,Bramhavara,Kota
+1006,Udupi,Byndur,Select Hobli
+1007,Udupi,Byndur,Bainduru
+1008,Udupi,Hebri,Select Hobli
+1009,Udupi,Hebri,Ajekaru
+1010,Udupi,Hebri,Hebri
+1011,Udupi,Hebri,Kundapura
+1012,Udupi,Kapu,Select Hobli
+1013,Udupi,Kapu,Kapu
+1014,Udupi,Karkala,Select Hobli
+1015,Udupi,Karkala,Ajekaru
+1016,Udupi,Karkala,Karkala
+1017,Udupi,Kundapura,Select Hobli
+1018,Udupi,Kundapura,Kundapura
+1019,Udupi,Kundapura,Vandse
+1020,Udupi,Udupi,Select Hobli
+1021,Udupi,Udupi,Udupi
+1022,Uttar Kannada,Select Taluka,Select Hobli
+1023,Uttar Kannada,Ankola,Select Hobli
+1024,Uttar Kannada,Ankola,Ankola
+1025,Uttar Kannada,Ankola,Balale
+1026,Uttar Kannada,Ankola,Basagoda
+1027,Uttar Kannada,Ankola,Belekeri
+1028,Uttar Kannada,Bhatkal,Select Hobli
+1029,Uttar Kannada,Bhatkal,Mavalli
+1030,Uttar Kannada,Bhatkal,Susagadi
+1031,Uttar Kannada,Dandeli,Select Hobli
+1032,Uttar Kannada,Dandeli,Dandeli
+1033,Uttar Kannada,Haliyal,Select Hobli
+1034,Uttar Kannada,Haliyal,Haliyala
+1035,Uttar Kannada,Haliyal,Murkavada
+1036,Uttar Kannada,Haliyal,Sambrani
+1037,Uttar Kannada,Honnavar,Select Hobli
+1038,Uttar Kannada,Honnavar,Honnavara
+1039,Uttar Kannada,Honnavar,Manki
+1040,Uttar Kannada,Honnavar,Mavinakurva
+1041,Uttar Kannada,Joida,Select Hobli
+1042,Uttar Kannada,Joida,Kumbaravada
+1043,Uttar Kannada,Joida,Kyasalarak
+1044,Uttar Kannada,Joida,Supa
+1045,Uttar Kannada,Karwar,Select Hobli
+1046,Uttar Kannada,Karwar,Bada
+1047,Uttar Kannada,Karwar,Ghadasayi
+1048,Uttar Kannada,Karwar,Kinnara
+1049,Uttar Kannada,Karwar,Savantavada
+1050,Uttar Kannada,Kumta,Select Hobli
+1051,Uttar Kannada,Kumta,Gokarna
+1052,Uttar Kannada,Kumta,Kujalli
+1053,Uttar Kannada,Kumta,Kumata
+1054,Uttar Kannada,Kumta,Mirjana
+1055,Uttar Kannada,Mundgod,Select Hobli
+1056,Uttar Kannada,Mundgod,Mundagoda
+1057,Uttar Kannada,Mundgod,Pala
+1058,Uttar Kannada,Siddapur,Select Hobli
+1059,Uttar Kannada,Siddapur,Kodkani
+1060,Uttar Kannada,Siddapur,Kondli
+1061,Uttar Kannada,Siddapur,Umbalamane
+1062,Uttar Kannada,Sirsi,Select Hobli
+1063,Uttar Kannada,Sirsi,Banavasi
+1064,Uttar Kannada,Sirsi,Hulekal
+1065,Uttar Kannada,Sirsi,Sampakhanda
+1066,Uttar Kannada,Sirsi,Shirasi
+1067,Uttar Kannada,Yellapur,Select Hobli
+1068,Uttar Kannada,Yellapur,Manchikeri
+1069,Uttar Kannada,Yellapur,Yallapura
+1070,Vijayanagara,Select Taluka,Select Hobli
+1071,Vijayanagara,Hadagali,Select Hobli
+1072,Vijayanagara,Hadagali,Hadagali
+1073,Vijayanagara,Hadagali,Hirehadagali
+1074,Vijayanagara,Hadagali,Ittigi
+1075,Vijayanagara,Hagaribommanahalli,Select Hobli
+1076,Vijayanagara,Hagaribommanahalli,Hagaribommanahalli
+1077,Vijayanagara,Hagaribommanahalli,Hampasagara
+1078,Vijayanagara,Hagaribommanahalli,Kogali
+1079,Vijayanagara,Hagaribommanahalli,Tambrahalli
+1080,Vijayanagara,Harapanahalli,Select Hobli
+1081,Vijayanagara,Harapanahalli,Arasikeri
+1082,Vijayanagara,Harapanahalli,Chigateri
+1083,Vijayanagara,Harapanahalli,Kasaba
+1084,Vijayanagara,Harapanahalli,Telagi
+1085,Vijayanagara,Hospet,Select Hobli
+1086,Vijayanagara,Hospet,Hosapete
+1087,Vijayanagara,Hospet,Kamalapura
+1088,Vijayanagara,Hospet,Mariyammanahalli
+1089,Vijayanagara,Kotturu,Select Hobli
+1090,Vijayanagara,Kotturu,Hosahalli
+1091,Vijayanagara,Kotturu,Kogali
+1092,Vijayanagara,Kotturu,Kotturu
+1093,Vijayanagara,Kudligi,Select Hobli
+1094,Vijayanagara,Kudligi,Gudekote
+1095,Vijayanagara,Kudligi,Hosahalli
+1096,Vijayanagara,Kudligi,Kudligi
+1097,Yadagir,Select Taluka,Select Hobli
+1098,Yadagir,Gurumitakala,Select Hobli
+1099,Yadagir,Gurumitakala,Balichakra
+1100,Yadagir,Gurumitakala,Gurumitakala
+1101,Yadagir,Gurumitakala,Konkala
+1102,Yadagir,Gurumitakala,Saidapora
+1103,Yadagir,Hunisigi,Select Hobli
+1104,Yadagir,Hunisigi,Hunasigi
+1105,Yadagir,Hunisigi,Kakkera
+1106,Yadagir,Hunisigi,Kodekal
+1107,Yadagir,Shahapur,Select Hobli
+1108,Yadagir,Shahapur,Doranalli
+1109,Yadagir,Shahapur,Gogi
+1110,Yadagir,Shahapur,Haiyyala B
+1111,Yadagir,Shahapur,Shahapura
+1112,Yadagir,Shorapur,Select Hobli
+1113,Yadagir,Shorapur,Hunasigi
+1114,Yadagir,Shorapur,Kakkera
+1115,Yadagir,Shorapur,Kembhavi
+1116,Yadagir,Shorapur,Shorapura
+1117,Yadagir,Vadagera,Select Hobli
+1118,Yadagir,Vadagera,Doranalli
+1119,Yadagir,Vadagera,Haiyyala B
+1120,Yadagir,Vadagera,Vadagera
+1121,Yadagir,Yadgir,Select Hobli
+1122,Yadagir,Yadgir,Balichakra
+1123,Yadagir,Yadgir,Hattikuni
+1124,Yadagir,Yadgir,Saidapora
+1125,Yadagir,Yadgir,Yadagiri

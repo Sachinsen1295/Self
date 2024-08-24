@@ -20,3 +20,4 @@ duckduckgo-search
 nltk
 unstructured
 youtube-transcript-api
+langserve
