@@ -30,12 +30,12 @@ driver.implicitly_wait(10)
 
 user_name = driver.find_element_by_id("userName")
 user_name.clear()
-user_name.send_keys("sachin.sen@propequity.in")
+user_name.send_keys("sachin.sen@")
 
 
 password = driver.find_element_by_id("password")
 password.clear()
-password.send_keys("Sachin@9899")
+password.send_keys("S**")
 
 
 Capta = driver.find_element_by_id("loginCaptchaUserInput1")
