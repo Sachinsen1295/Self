@@ -9,14 +9,18 @@ import pandas as pd
 import json
 
 
+
+
 url = "https://kaveri.karnataka.gov.in"
 PATH = "/Users/sachinsen/Documents/Generative Ai/Claases/SCRAPING/Selenium/chromedriver-mac-arm64/chromedriver"
 
 
 # Setup WebDriver
 driver_path = PATH  # Change this to your ChromeDriver path
-driver = webdriver.Chrome(executable_path=driver_path)
+driver = webdriver.Chrome(executable_path=driver_path)›
 driver.get(url)
+
+# WebDriverWait(driver, 10).until(EC.presence_of_element_located(By.XPATH ,"//button[text()='Login']"))
 
 # Set implicit wait
 driver.implicitly_wait(10) 
