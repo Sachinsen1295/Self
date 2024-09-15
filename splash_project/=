@@ -1,0 +1,44 @@
+Script started on Sun Sep 15 15:38:08 2024
+Command: 
+        function main(splash, args)
+            splash.private_mode_enabled = false
+            assert(splash:go(args.url))
+            assert(splash:wait(3))
+            
+            -- Select all buttons with the class "label.btn.btn-sm.btn-primary"
+            local all_matches = splash:select_all("label.btn.btn-sm.btn-primary")
+            if all_matches[2] then
+                all_matches[2]:mouse_click()
+                assert(splash:wait(3))
+            end
+            
+            splash:set_viewport_full()
+            return {
+                png = splash:png(),  -- return the screenshot (optional)
+                html = splash:html() -- return the HTML content
+            }
+        end
+    
+script: 
+        function main(splash, args)
+            splash.private_mode_enabled = false
+            assert(splash:go(args.url))
+            assert(splash:wait(3))
+            
+            -- Select all buttons with the class "label.btn.btn-sm.btn-primary"
+            local all_matches = splash:select_all("label.btn.btn-sm.btn-primary")
+            if all_matches[2] then
+                all_matches[2]:mouse_click()
+                assert(splash:wait(3))
+            end
+            
+            splash:set_viewport_full()
+            return {
+                png = splash:png(),  -- return the screenshot (optional)
+                html = splash:html() -- return the HTML content
+            }
+        end
+    : File name too long
+
+Command exit status: 1
+Script done on Sun Sep 15 15:38:08 2024
